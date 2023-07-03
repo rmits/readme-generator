@@ -1,10 +1,10 @@
-# Cool World
+# README.md Generator
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-It is an app abput making the world cold and getting rid of global warming
+This app was created with the idea in mind of making a README.md file simpler to make. It goes through the important aspects of a README file, makes a little icon for your license as well as provides a link for the type of license you are using, and then once you fully run through it on node, BOOOOM! It is created for you!
 
 ## Table of Contents
 
@@ -14,15 +14,15 @@ It is an app abput making the world cold and getting rid of global warming
 
 ## Installation
 
-N/A
+Must have Node.js installed on the computer/device you are trying to use this app for
 
 ## Usage
 
-The site has buttons that automatically change the weather, as unbelievable as that sounds
+Prompts are initiated in your node using Inquirer, and once completed with the set of prompts, it will generate a README.md file
 
 ## Contributers
 
-undefined
+N/A
 
 ## Tests
 
